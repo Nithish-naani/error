@@ -1,0 +1,33 @@
+/* Write your CSS here */
+.container {
+  background-color: #1e293b;
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  color: #f0bb03;
+  font-family: 'Bree Serif';
+  font-size: 30px;
+  font-weight: bold;
+}
+.text {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  font-size: 18px;
+  font-weight: bold;
+}
+.button {
+  background-color: #ffffff;
+  height: 5vh;
+  width: 10vw;
+  border-radius: 5px;
+  border-width: 0px;
+  color: #1e293b;
+  font-size: 10px;
+  font-family: 'Bree Serif';
+  cursor: pointer;
+}
